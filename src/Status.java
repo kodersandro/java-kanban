@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public enum Status {
+public enum Status {
+
+    NEW,
+    IN_PROGRESS,
+    DONE
+
 }
