@@ -19,4 +19,5 @@ public class Epic extends Task {
     public void setSubTasks(ArrayList<Integer> subTasks) {  // сеттер для установки списка подзадач
         this.subTasks = subTasks;
     }
+
 }
